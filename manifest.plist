@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://package.xiaorongzhu.com/apk/app-0.1.104-0514-EA2ABE29-543D-4690-A676-B8B6DDE6CAAC.apk</string>
+					<string>http://package.xiaorongzhu.com/apk/app-0.1.10-0519.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -135,7 +135,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://package.xiaorongzhu.com/apk/app-0.1.104-0514-FDD28FEF-17E6-44FF-AE3D-49D32AD10D29.apk</string>
+					<string>http://package.xiaorongzhu.com/apk/app-0.1.10-0519.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -214,7 +214,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://package.xiaorongzhu.com/apk/app-0.1.104-0514-3C62B898-7A23-4CC7-B428-43367700D831.apk</string>
+					<string>http://package.xiaorongzhu.com/apk/app-0.1.10-0519.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -235,7 +235,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://package.xiaorongzhu.com/apk/app-0.1.104-0514-28AFD5B3-3ED7-4764-83B8-CB60D01B95B7.apk</string>
+					<string>http://package.xiaorongzhu.com/apk/app-0.1.10-0519.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
