@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://package.xiaorongzhu.com/apk/app-0.1.104-0514.png</string>
+					<string>http://package.xiaorongzhu.com/ios/200.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://package.xiaorongzhu.com/apk/app-0.1.104-0514.png</string>
+					<string>http://package.xiaorongzhu.com/ios/app-0.1.105-0520.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
